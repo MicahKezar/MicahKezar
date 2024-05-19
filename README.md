@@ -6,7 +6,7 @@
 
 <div align="center"><h1>✨ About Me</div></h1>
 
-I'm Micah Kezar, and I hold a Bachelor's degree in Computer Networking & Cybersecurity from Champlain College. My passion lies in the world of cybersecurity, where I continuously seek to expand my knowledge and skills. I am currently focused on expanding my personal projects and exploring various professional certifications. 
+I'm Micah! I hold a Bachelor's degree in Computer Networking & Cybersecurity from Champlain College. My passion lies in the world of cybersecurity, where I continuously seek to expand my knowledge and skills. I am currently focused on expanding my personal projects and exploring various professional certifications. 
 
 ## Hobbies:
 * 🎵 Music, Music Theory, and Sound Design. Taught myself how to play piano by ear when I was 4 years old. To this day, I still cannot read sheet music!
