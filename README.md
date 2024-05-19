@@ -17,7 +17,7 @@ I'm Micah! I hold a Bachelor's degree in Computer Networking & Cybersecurity fro
 
 
 <div align="center"><h1>💪 Skills</div></h1>
-<h2>👨‍💻 Coding</h2>
+<h2>👨‍💻 Coding / Scripting</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/SpigotMC-ED8106.svg?style=for-the-badge&logo=SpigotMC&logoColor=white" alt="SpigotMC">
@@ -26,6 +26,7 @@ I'm Micah! I hold a Bachelor's degree in Computer Networking & Cybersecurity fro
   <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/YAML-CB171E.svg?style=for-the-badge&logo=YAML&logoColor=white" alt="YAML">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" alt="Windows Terminal">
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
@@ -89,6 +90,7 @@ I'm Micah! I hold a Bachelor's degree in Computer Networking & Cybersecurity fro
 ## Academics & Learning
 * Potentially persue my Master's Degree in Cybersecurity.
 * Learn Assembly
+* Practice setting up a test MongoDB database to familiarize myself with both non-relational databases and JSON.
 
 ## Project Ideas
 * Create a query-based & dictionary-based Vanity Plate checker to see what plates are availible in your respective state (or country!). 
