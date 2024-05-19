@@ -11,7 +11,8 @@ I'm Micah Kezar, and I hold a Bachelor's degree in Computer Networking & Cyberse
 ## Hobbies:
 * 🎵 Music, Music Theory, and Sound Design. Taught myself how to play piano by ear when I was 4 years old. To this day, I still cannot read sheet music!
 * 🏀 Sports! I love everything from summer activities like Volleyball, Basketball, and Ultimate Frisbee to winter pursuits such as Hockey and Snowboarding.
-* 🏎️ Cars. There's something about modifying a car to unlock its full potential that scratches an itch in my brain. I can't really explain it. It's like having a glorified lego set. 
+* 🏎️ Cars. There's something about modifying a car to unlock its full potential that scratches an itch in my brain. I can't really explain it. It's like having a glorified lego set.
+* 🎮 Videogames. If it's one thing every IT/Dev has in common, it's probably this. I love anything that challenges me. As a result, any of the FromSoftware games are my favorite!
 
 
 <div align="center"><h1>Skillsets</div></h1>
