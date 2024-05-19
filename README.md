@@ -76,9 +76,15 @@ I'm Micah! I hold a Bachelor's degree in Computer Networking & Cybersecurity fro
   <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366.svg?style=for-the-badge&logo=Adobe-InDesign&logoColor=white" alt="InDesign">
   <img src="https://img.shields.io/badge/Nikon-FFE100.svg?style=for-the-badge&logo=Nikon&logoColor=black" alt="Nikon">
   
+  
 </div>
 
 <br>
+<div align="center"><h1>🔗 Socials</div></h1>
+<a href="https://www.linkedin.com/in/micah-kezar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+</a>
+  
 <div align="center"><h1>🏆 Goals</div></h1>
   
 ## Licenses & Certifications I Wish To Earn:
