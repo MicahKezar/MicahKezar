@@ -10,7 +10,8 @@ I'm Micah! I hold a Bachelor's degree in Computer Networking & Cybersecurity fro
 
 ## Hobbies:
 * 🎵 Music, Music Theory, and Sound Design. Taught myself how to play piano by ear when I was 4 years old. To this day, I still cannot read sheet music!
-* 🏀 Sports! I love everything from summer activities like Volleyball, Basketball, and Ultimate Frisbee to winter pursuits such as Hockey and Snowboarding.
+* 🏀 Sports. I love everything from summer activities like Volleyball, Basketball, and Ultimate Frisbee to winter pursuits such as Hockey and Snowboarding.
+* 📷 Photography. From Nature, Landscape, and Macro Photography all the way to Astrophotography! I love it all. I shoot on a Nikon D750.
 * 🏎️ Cars. There's something about modifying a car to unlock its full potential that scratches an itch in my brain. I can't really explain it. It's like having a glorified lego set.
 * 🎮 Videogames. If it's one thing every IT/Dev has in common, it's probably this. I love anything that challenges me. As a result, any of the FromSoftware games are my favorite!
 
