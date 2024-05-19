@@ -70,7 +70,7 @@ I'm Micah Kezar, and I hold a Bachelor's degree in Computer Networking & Cyberse
 * In a perfect world.... The OSCP.
 
 ## Academics
-* Potentially persue my Master's Degree.
+* Potentially persue my Master's Degree in Cybersecurity.
 
 ## Project Ideas
 * Create a query-based & dictionary-based Vanity Plate checker to see what plates are availible in your respective state (or country!). 
