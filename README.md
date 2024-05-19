@@ -43,6 +43,7 @@ I'm Micah! I hold a Bachelor's degree in Computer Networking & Cybersecurity fro
   <img alt="John the Ripper" src="https://img.shields.io/badge/John%20the%20Ripper-8B0000?style=for-the-badge"/>
   <img alt="Aircrack-ng" src="https://img.shields.io/badge/Aircrack%E2%80%90ng-0000FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark">
+  <img src="https://img.shields.io/badge/WireGuard-88171A.svg?style=for-the-badge&logo=WireGuard&logoColor=white" alt="Wireguard">
   <img alt="Vim" src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white"/>
   <img alt="Apache" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
   <img src="https://img.shields.io/badge/pfSense-212121.svg?style=for-the-badge&logo=pfSense&logoColor=white" alt="PfSense">
@@ -61,9 +62,18 @@ I'm Micah! I hold a Bachelor's degree in Computer Networking & Cybersecurity fro
   <img src="https://img.shields.io/badge/VyOS-00B2B2?style=for-the-badge&logo=vyos&logoColor=white" alt="VyOS">
   <img src="https://img.shields.io/badge/TempleOS-6588F2?style=for-the-badge&logo=templeos&logoColor=white" alt="TempleOS">
   <img src="https://img.shields.io/badge/Tails-56347C.svg?style=for-the-badge&logo=Tails&logoColor=white" alt="Tails">
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7.svg?style=for-the-badge&logo=Cisco&logoColor=white" alt="Cisco">
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7.svg?style=for-the-badge&logo=Cisco&logoColor=white" alt="Cisco">  
+</div>
+<h2>🎨 Extras</h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white" alt="Photoshop">
+  <img src="https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe-Lightroom-Classic&logoColor=white" alt="Lightroom">
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white" alt="Illustrator">
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe-Premiere-Pro&logoColor=white" alt="Premiere">
+  <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366.svg?style=for-the-badge&logo=Adobe-InDesign&logoColor=white" alt="InDesign">
   
 </div>
+
 <br>
 <div align="center"><h1>🏆 Goals</div></h1>
   
