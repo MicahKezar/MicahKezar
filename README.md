@@ -8,8 +8,6 @@
 
 I'm Micah! I hold a Bachelor's degree in Computer Networking & Cybersecurity from Champlain College. My passion lies in the world of cybersecurity, where I continuously seek to expand my knowledge and skills. I am currently focused on expanding my personal projects and exploring various professional certifications. 
 
-I've been around computers my entire life, but I began my journey at age 11 when introduced to computer programming through Minecraft. It started with my father teaching me the basics of Java, which quickly lead to me teaching myself the Bukkit / Spigot API. As I grew older, my passion slowly moved away from game programming and shifted towards the realm of Cybersecurity.
-
 ## Hobbies:
 * 🎵 Music, Music Theory, and Sound Design. Taught myself how to play piano by ear when I was 4 years old. To this day, I still cannot read sheet music!
 * 🏀 Sports. I love everything from summer activities like Volleyball, Basketball, and Ultimate Frisbee to winter pursuits such as Hockey and Snowboarding.
