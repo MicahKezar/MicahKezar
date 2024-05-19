@@ -63,10 +63,17 @@ I'm Micah Kezar, and I hold a Bachelor's degree in Computer Networking & Cyberse
 <br>
 <div align="center"><h1>🏆 Goals</div></h1>
   
-## Certifications I Wish To Earn:
+## Licenses & Certifications I Wish To Earn:
+* HAM Radio License
 * eJPT
 * CompTIA PenTest+ & Security+
 * In a perfect world.... The OSCP.
+
+## Academics
+* Potentially persue my Master's Degree.
+
+## Project Ideas
+* Create a query-based & dictionary-based Vanity Plate checker to see what plates are availible in your respective state (or country!). 
 
 
 </div>
