@@ -15,7 +15,7 @@ I'm Micah! I hold a Bachelor's degree in Computer Networking & Cybersecurity fro
 * 🎮 Videogames. If it's one thing every IT/Dev has in common, it's probably this. I love anything that challenges me. As a result, any of the FromSoftware games are my favorite!
 
 
-<div align="center"><h1>Skillsets</div></h1>
+<div align="center"><h1>💪 Skills</div></h1>
 <h2>👨‍💻 Coding</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
