@@ -19,7 +19,6 @@ I'm Micah! I hold a Bachelor's degree in Computer Networking & Cybersecurity fro
 <h2>👨‍💻 Coding</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Minecraft-3C8527.svg?style=for-the-badge&logo=Minecraft&logoColor=white" alt="Minecraft">
   <img src="https://img.shields.io/badge/SpigotMC-ED8106.svg?style=for-the-badge&logo=SpigotMC&logoColor=white" alt="SpigotMC">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
