@@ -11,7 +11,7 @@ I'm Micah Kezar, and I hold a Bachelor's degree in Computer Networking & Cyberse
 ## Hobbies:
 * 🎵 Music, Music Theory, and Sound Design. Taught myself how to play piano by ear when I was 4 years old. To this day, I still cannot read sheet music!
 * 🏀 Sports! I love everything from summer activities like Volleyball, Basketball, and Ultimate Frisbee to winter pursuits such as Hockey and Snowboarding.
-* 🏎️ Cars. There's something about modifying a car to unlock its full potential that scratches an itch in my brain that I just can't quite explain. It's like having a glorified lego set. 
+* 🏎️ Cars. There's something about modifying a car to unlock its full potential that scratches an itch in my brain. I can't really explain it. It's like having a glorified lego set. 
 
 
 <div align="center"><h1>Skillsets</div></h1>
@@ -59,7 +59,6 @@ I'm Micah Kezar, and I hold a Bachelor's degree in Computer Networking & Cyberse
   <img src="https://img.shields.io/badge/VyOS-00B2B2?style=for-the-badge&logo=vyos&logoColor=white" alt="VyOS">
   <img src="https://img.shields.io/badge/TempleOS-6588F2?style=for-the-badge&logo=templeos&logoColor=white" alt="TempleOS">
   <img src="https://img.shields.io/badge/Tails-56347C.svg?style=for-the-badge&logo=Tails&logoColor=white" alt="Tails">
-
 </div>
 <br>
 <div align="center"><h1>🏆 Goals</div></h1>
