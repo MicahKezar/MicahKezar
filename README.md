@@ -61,6 +61,8 @@ I'm Micah Kezar, and I hold a Bachelor's degree in Computer Networking & Cyberse
   <img src="https://img.shields.io/badge/VyOS-00B2B2?style=for-the-badge&logo=vyos&logoColor=white" alt="VyOS">
   <img src="https://img.shields.io/badge/TempleOS-6588F2?style=for-the-badge&logo=templeos&logoColor=white" alt="TempleOS">
   <img src="https://img.shields.io/badge/Tails-56347C.svg?style=for-the-badge&logo=Tails&logoColor=white" alt="Tails">
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7.svg?style=for-the-badge&logo=Cisco&logoColor=white" alt="Cisco">
+  
 </div>
 <br>
 <div align="center"><h1>🏆 Goals</div></h1>
@@ -71,8 +73,9 @@ I'm Micah Kezar, and I hold a Bachelor's degree in Computer Networking & Cyberse
 * CompTIA PenTest+ & Security+
 * In a perfect world.... The OSCP.
 
-## Academics
+## Academics & Learning
 * Potentially persue my Master's Degree in Cybersecurity.
+* Learn Assembly
 
 ## Project Ideas
 * Create a query-based & dictionary-based Vanity Plate checker to see what plates are availible in your respective state (or country!). 
