@@ -89,7 +89,7 @@ I'm Micah! I hold a Bachelor's degree in Computer Networking & Cybersecurity fro
   
 ## Licenses & Certifications I Wish To Earn:
 * HAM Radio License
-* [eJPT](https://github.com/MicahKezar/MicahKezar/wiki/INE-Security---eJPT-Certification)
+* [eJPT](https://github.com/MicahKezar/MicahKezar/wiki/INE-Security-eJPT-Certification-Notes)
 * CompTIA PenTest+ & Security+
 * In a perfect world.... The OSCP.
 
