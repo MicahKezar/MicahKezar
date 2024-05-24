@@ -104,4 +104,4 @@ I'm Micah! I hold a Bachelor's degree in Computer Networking & Cybersecurity fro
 
 </div>
 <!--
-**MicahKezar/MicahKezar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MicahKezar/MicahKezar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
